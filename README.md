@@ -1,4 +1,4 @@
-# TCotG The Clash of the Guardians (P1 A&amp;DB)
+# The Clash of the Guardians
 
 Turn based card fighting game featuring deck building from a .txt file
 
