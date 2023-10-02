@@ -1,5 +1,6 @@
-# The Clash of the Guardians
-Juego de cartas por turnos que usa una archivo txt para crear un mazo.
+# TCotG The Clash of the Guardians (P1 A&amp;DB)
 
-(De ser necesario, este readme se irá actualizando junto al juego)
-(Proyecto 1 de AyED 2023-2)
+Turn based card fighting game featuring deck building from a .txt file
+
+(If needed, this readme will get updated alongside the game)
+(Project 1 A&ED 2023-2)
