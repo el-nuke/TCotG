@@ -1,4 +1,3 @@
-Name,Type,LP,AP,DF
 Gandalf,Mage,40,20,10
 Dracula,Necromancer,30,25,15
 Thor,Viking,50,30,20
@@ -25,21 +24,37 @@ Erik the Red,Viking,80,45,40
 Phoenix,Beast,100,80,60
 The mysterious Masked Magician,Mage,60,50,30
 Mistress of Shadows and Deception,Necromancer,50,60,40
-Ivar the Boneless, Viking, 90, 55, 45
-Chimera, Beast, 110, 90, 70
-Luna the Moonlit Mage, Mage, 65, 55, 35
-Baron von Bloodsucker, Necromancer, 40, 55, 60
-Leif the Lucky, Viking, 85, 50, 45
-Thunderbird, Beast, 120, 100, 80
-The Enigmatic Enchantress, Mage, 70, 60, 40
-Blackbeard the Cursed, Necromancer, 45, 60, 55
-Astrid the Fearless, Viking, 95, 55, 50
-Krampus, Beast, 130, 110, 90
-Midnight Mysteria, Mage, 75, 65, 45
-Countess Vampira, Necromancer, 50, 65, 70
-Rollo the Mighty, Viking, 100, 60, 55
-Manticore, Beast, 140, 120, 100
-Mystic Magellan, Mage, 80, 70, 50
-Lord Lich, Necromancer, 55, 70, 75
-Sigrid the Swift, Viking, 105, 65, 60
-Serpent King, Beast, 150, 130, 110
+Ivar the Boneless,Viking,90,55,45
+Chimera,Beast,110,90,70
+Luna the Moonlit Mage,Mage,65,55,35
+Baron von Bloodsucker,Necromancer,40,55,60
+Leif the Lucky,Viking,85,50,45
+Thunderbird,Beast,120,100,80
+The Enigmatic Enchantress,Mage,70,60,40
+Blackbeard the Cursed,Necromancer,45,60,55
+Astrid the Fearless,Viking,95,55,50
+Krampus,Beast,130,110,90
+Midnight Mysteria,Mage,75,65,45
+Countess Vampira,Necromancer,50,65,70
+Rollo the Mighty,Viking,100,60,55
+Manticore,Beast,140,120,100
+Mystic Magellan,Mage,80,70,50
+Lord Lich,Necromancer,55,70,75
+Sigrid the Swift,Viking,105,65,60
+Serpent King,Beast,150,130,110
+Aria the Enchantress,Mage,70,60,45
+Grimgor the Ruthless,Orc,100,80,65
+Shadowclaw,Werewolf,85,70,55
+Cinderflame Dragon,Dragon,130,110,90
+Sir Reginald the Brave,Knight,75,65,70
+Sylas the Silent,Rogue,60,80,40
+Serafina the Serpent Queen,Snake,95,75,85
+Frostbite Yeti,Yeti,110,90,75
+Ignis the Firestarter,Elemental,80,85,60
+Wraith of the Abyss,Undead,55,70,75
+Thalia the Thunderstruck,Wizard,70,65,55
+Ironclad Golem,Construct,120,100,110
+Gwenn the Gnomish Tinker,Gnome,50,40,60
+Sylvan Windcaller,Elf,85,75,70
+Frostheart Polar Bear,Bear,95,85,80
+Lord Zephyr,Air Elemental,110,105,100

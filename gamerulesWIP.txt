@@ -1,0 +1,41 @@
+gameloop concept
+
+[CPU] [ HP: x ]
+
+
+1: [name][type][HP:x][AP:x][DP:x]
+
+---------------------------------
+
+1: [name][type][HP:x][AP:x][DP:x]
+2: [name][type][HP:x][AP:x][DP:x]
+
+
+
+[YOU] [ HP: x ] [Deck: 10]
+
+1: [name][type][HP:x][AP:x][DP:x]
+2: [name][type][HP:x][AP:x][DP:x]
+3: [name][type][HP:x][AP:x][DP:x]
+
+
+-- WHAT WILL YOU DO? --
+
+1: Place card
+2: Attack
+
+
+When the game starts, both players get 15 cards to their deck.
+3 cards get picked to 
+
+Pick one of your cards (Attacker), then one of your opp's (Target)
+
+Attacker deals AP points of damage to Target, Target mitigates these points of damage using their DP, any non mitigated damage goes to their HP
+
+I.E Gandalf (20,30,10) deals 30 dmg to TheUltimateWizard (30,20,10)
+30 ap - 10 dp = 20 remaining dmg that goes to their hp, so 30 - 20 = *10 hp remains*
+
+There cannot be negative differences on damage, if the attacker AP is lower than target's DP (ex. 20 ap - 50 dp = -30 dmg) it just deals 0 dmg. 
+
+if any card is defeated (reaches 0 hp) it'll deal 1 dmg to the owner of the defeated card
+
