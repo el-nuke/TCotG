@@ -1,5 +1,6 @@
 gameloop concept
 
+
 [CPU] [ HP: x ]
 
 
@@ -25,8 +26,9 @@ gameloop concept
 2: Attack
 
 
+
 When the game starts, both players get 15 cards to their deck.
-3 cards get picked to 
+3 cards get dealt to their hand
 
 Pick one of your cards (Attacker), then one of your opp's (Target)
 
